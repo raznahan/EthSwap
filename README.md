@@ -18,7 +18,7 @@ truffle compile
 truffle migrate
 npm run start
 ```
-
+>\* You need to have Ganache installed on your system. Or otherwise, you could use real Ethereum network or even test networks.
 
 [DappUniversity]:https://www.youtube.com/c/DappUniversity
 
